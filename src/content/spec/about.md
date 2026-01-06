@@ -1,49 +1,74 @@
+---
+title: 关于我
+description: 小猫船长的自我介绍
+---
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+## 🏴‍☠️ 关于我
 
-::github{repo="matsuzaka-yuki/Mizuki"}
+> [!NOTE]
+> **你好啊，我是小猫船长。**
+> 
+> 一个雄性 **INTP 7w8** 🦁 **狮子座** |  
+> 
+> 专业方向为**自动化**（如果没听过就把它当作计算机和机器人、人工智能的结合吧）
 
-## 🌟 Theme Features
+这里是我的海盗船。哈哈哈，上了船就别想跑了噢。
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+> [!WARNING]
+> **什么？你要离开。不行，不行。**
+> 
+> 打是打不过你了 
+> **诺，这里有我的宝藏，如果是你的话也不是不能分享。**
+> 
+> 那你是不是就不会走啦~
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+就先这样漫无目的地航行在这个奇幻世界里吧。
 
-
-
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
-
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+如果哪里有宝藏我们就升起主帆 🏴‍☠️
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+## 🤝 可以和猫船长做什么
+
+### 💬 讨论交流
+
+可以跟我讨论各类**科学**、**文学**和**艺术**（当然后两者只是浅尝辄止：严肃文学的话最近对**日本文学**和**俄罗斯文学**感兴趣；之前喜欢**科幻**、**武侠**、各类**网络小说**），基本什么都可以和我讨论。
+
+### 🔄 技能交换
+
+分享点自己学到的东西？技能交换的样子
+
+可以请我帮你忙（会编辑公众号、选购电脑、手机相关的数码产品等等），你拿点近似等价的交换就好「感觉会很有趣」。如果你有很有趣的想法/事业，我会很乐意帮助的。
+
+### 🎮 兴趣爱好
+
+- **轻度二次元？**（番 gal 漫画都看）
+- **游戏**什么都玩一点（不过感觉游戏引发太多交流的概率比较低？这里就不细讲了）
+- **音乐**（传统弦乐、JPOP、和一些古董般的歌）
+
+### 🏃 运动
+
+跑步、乒乓球、羽毛球、游泳
+
+> [!TIP]
+> 对了，欢迎找我下棋（不过我是臭棋篓子）**国象**、**军棋**、**象棋**
+> 可以联机的游戏：逃离塔科夫、博德之门，战争雷霆、战地 1
+
+---
+
+## 💭 关于 slogan
+
+> [!NOTE]
+> **Life is a creation, not a discovery**
+> 
+> 或许是不够聪明吧，还是好多问题没有想明白。
+
+---
+
+## 📝 关于本站
+
+> [!TIP]
+> 本博客始建于 **2026 年 01 月 6 日**
+> 
+> **要饭中** 🍚
+<img src="https://cbt567.oss-rg-china-mainland.aliyuncs.com/img/202507111347913.png" alt="打赏区" width="300" height="200">
