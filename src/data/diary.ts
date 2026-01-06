@@ -20,6 +20,18 @@ const diaryData: DiaryItem[] = [
 		date: "2025-01-15T10:30:00Z",
 		images: ["/images/diary/sakura.jpg", "/images/diary/1.jpg"],
 	},
+	{
+		id: 2,
+		content: "今日は晴れで、公園でピクニックをしました。とても楽しかったです！",
+		date: "2025-01-10T14:00:00Z",
+	  },
+	  // --- 这是我们新添加的日记 ---
+	  {
+		id: 3, // 新的ID
+		content: "今天尝试了新的咖啡配方，味道很棒！绵密的奶泡是关键。", // 内容，使用换行
+		date: "2025-01-20T15:00:00Z", // 新的日期
+		images: ["/images/diary/coffee.jpg"], // 新的图片路径
+	  },
 ];
 
 // 获取日记统计数据

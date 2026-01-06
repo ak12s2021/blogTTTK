@@ -1,0 +1,10 @@
+{
+    "title": "我的旅行相册",
+    "hidden": false,
+    "description": "2025年的美好回忆",
+    "date": "2026-01-01",
+    "location": "成都",
+    "tags": ["旅行", "成都", "夏天"],
+    "layout": "masonry",
+    "columns": 3
+  }
