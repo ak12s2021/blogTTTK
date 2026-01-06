@@ -1,1 +1,27 @@
-这里是HTML注入示例，你可以在这个文件中添加自定义的HTML内容
+
+<script type="text/javascript">
+    function show_runtime() {
+        window.setTimeout(show_runtime, 1200);
+        const X = new Date("9/10/2024 8:18:18");
+        const Y = new Date();
+        const T = (Y.getTime() - X.getTime());
+        const M = 24 * 60 * 60 * 1000;
+        const a = T / M;
+        const A = Math.floor(a);
+        const b = (a - A) * 24;
+        const B = Math.floor(b);
+        const c = (b - B) * 60;
+        const C = Math.floor(c);
+        const D = Math.floor((c - C) * 60);
+        
+        // 设置文本内容和颜色
+        const runtimeText = "————网站在各种灾难中运行了: " + A + "天" + B + "小时" + C + "分" + D + "秒";
+        runtime_span.innerHTML = runtimeText;
+        runtime_span.style.color = "#C8A2C8"; // 设置为莫兰迪红色
+    }
+    show_runtime();
+</script>
+ <a href="https://beian.miit.gov.cn/">网站备案/许可证号 京ICP备2024087616号</a>
+<span id="runtime_span"></span>
+</body>
+</html>
