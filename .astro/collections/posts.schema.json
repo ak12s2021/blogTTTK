@@ -51,6 +51,10 @@
           "type": "string",
           "default": ""
         },
+        "imagePosition": {
+          "type": "string",
+          "default": "center center"
+        },
         "tags": {
           "type": "array",
           "items": {

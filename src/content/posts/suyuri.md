@@ -2,7 +2,7 @@
 title: ありがとう酸欠少女
 published: 2024-09-29
 tags: []
-pinned: true
+pinned: false
 category: 杂谈
 draft: false
 image: https://cbt567.oss-rg-china-mainland.aliyuncs.com/img/20260107133707943.jpg
@@ -44,5 +44,6 @@ image: https://cbt567.oss-rg-china-mainland.aliyuncs.com/img/20260107133707943.j
 像蝶一样轻盈飞舞
 如同黯淡的新月之光 挥动残缺的羽翼飞翔……」
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/49R_nMEW7X8?si=_ck3cs65hMvOZ9EJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1000" height="500" src="//player.bilibili.com/player.html?isOutside=true&aid=837659514&bvid=BV17g4y187X6&cid=176145033&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 住院的时候刚好是9.17日中秋，真是巧合呢
