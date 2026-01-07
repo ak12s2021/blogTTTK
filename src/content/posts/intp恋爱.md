@@ -1,0 +1,90 @@
+---
+title: "INTP恋爱指北"
+published: 2024-12-19
+tags: [intp love]
+category: love
+draft: false
+---
+<!-- wp:paragraph -->
+<p>煮了一锅大杂烩，就是一些信息收集后的综合</p>
+<!-- /wp:paragraph -->
+
+<h1>INTP恋爱指北</h1>
+<p>　　+<a href="https://www.reddit.com/r/INTP/comments/2d2wrj/how_do_you_find_a_girlfriend_as_intp_in_university/">INTP恋爱指北</a></p>
+<p>　　‍</p>
+<p>　　‍</p>
+<p>​<img src="https://cbt567.oss-rg-china-mainland.aliyuncs.com/img/202412192139259.png" alt="image" />​</p>
+<p>　　<a href="https://www.reddit.com/r/INTP/comments/2d2wrj/how_do_you_find_a_girlfriend_as_intp_in_university/">https://www.reddit.com/r/INTP/comments/2d2wrj/how_do_you_find_a_girlfriend_as_intp_in_university/</a></p>
+<p>　　The reason everyone tells you something different is because people are different. Different personalities, different lives, different social circles, etc. Also, high school doesn't really count, and university certainly isn't your last chance.</p>
+<blockquote>
+<p>Is my only chance of becoming happy finding a really well paying job and getting some kind of trophy wife? Or at least becoming upper middle class somehow and finding a woman in Russia or Thailand?</p>
+</blockquote>
+<p>　　First of all, you need to be happy on your own. Seriously, this is going to be very important before getting in a relationship anyways, and just important in general for living happily. This is why I say &quot;be yourself&quot; (or more accurately, &quot;be the best version of you&quot;). Because being someone else and getting into a relationship because of it won't make you happy. You're now spending a lot of time with TWO people who don't have anything in common with you.</p>
+<p>　　Second of all, it's a lot of luck. No one likes to say that because it sucks to hear that you can't control everything around you, but it's true. You might find someone tomorrow that makes you come back to this comment and laugh at how naive you were to think that the perfect person wasn't right there beside you, and you might wait 15 years for the perfect person before settling for some dumb chick with breast implants who ends up making you miserable anyways. You can definitely improve your chances of not getting the latter though.</p>
+<p>　　You're already doing a lot of the good things to lead to a relationship. Being open to social interaction (I personally struggled with that one a lot...) is pretty important. You should really work on the confidence thing too. I'd consider following the advice you're getting regarding overall appearance. It really depends on how much your current style is important to you (Eg. there's a difference between loving long hair and loving not having to get a hair cut...). This comes back to being the best version of you. Don't change what's at the core, but absolutely put your best foot forward.</p>
+<p>　　Guess I'm just gonna have to find a therapist then and get over my depression on my own before I have a chance at a relationship?</p>
+<p>　　Honestly though, if a relationship wasn't necessary for my happiness I wouldn't be bothering with this shit anyways. I don't care much for most social interaction but I just want one person to love me and to grow old with. It's such a fucking cliche but it's true.</p>
+<p>　　You can't just want &quot;someone&quot;. No one wants to be your &quot;someone&quot;. They are actual human beings, not just potential accessories to your life.</p>
+<p>　　It's fine to want to find the right person, but just finding &quot;someone&quot; and clinging to them will NOT fix your life. You need to be your own person, with your own life that makes you happy. You can <em>share</em> that life with the right person.</p>
+<p>　　‍</p>
+<p>　　老实说，听起来你需要多关注一下自己。你已经开始扩大社交圈，并想开始多锻炼，这很好。参加一项运动可能比去健身房更好，因为它可以让你结识新朋友，同时锻炼身体。如果你喜欢并想要长发，那也没关系，但一定要保持头发整洁，并做好造型。</p>
+<p>　　此外，我注意到 INTP 似乎陷入了其中，我不知道您是否订阅了<a href="https://www.reddit.com/r/ForeverAlone/">r/ForeverAlone</a>或<a href="https://www.reddit.com/r/theredpill/">r/theredpill</a>等子版块，但我真的会取消订阅它们。我发现 INTP 确实在寻找那些坚持与他们相同的思维方式的人，并且真正享受并认为需要一种兄弟情谊，或者至少比 INTJ 更需要这种情谊，因为 INTJ 往往更像独狼。</p>
+<p>　　我观察到的问题是，当 INTP 们加入某些社交团体或与某些与他们有相同世界观的人交往时，他们会获得某种友谊感。但如果这种社交团体建立在共同的痛苦或消极情绪之上，那么我发现它最终会阻碍 INTP 们的成长。</p>
+<p>　　就像<a href="https://www.reddit.com/r/ForeverAlone/">r/ForeverAlone</a>上有很多虽然我确信是善良的但往往有点消极的人，而<a href="https://www.reddit.com/r/theredpill/">r/theredpill</a>上也充满了一群被女性伤害过并且对女性有不好看法的人。</p>
+<p>　　如果你觉得自己崩溃了，为自己感到难过，讨厌自己的生活，坦率地说，你需要改变自己的想法和感受，如果你与那些强化这种世界观的社会群体联系在一起，那么很难做到这一点或摆脱这种世界观。为此，我会认真审视你的精神消费，并消除所有真正强化消极或失败主义世界观的东西。</p>
+<p>　　此外，在你人生的这个阶段，你也许应该培养一些技能。我不知道你是几年级，也不知道你的表现是否不好，但不要忘记你的学业，因为大学生活会比你想象的要快。还要尝试培养其他领域的一些技能或爱好。</p>
+<p>　　现实生活中，大多数人只对你能为他们做什么感兴趣。我并不是说一切都是直接的交换，而是无情的。但在社交圈中，如果你不断被邀请参加活动，却没有做出太多贡献，或者没有提供过多的帮助或友好，人们就会越来越少地邀请你，对你也不再那么感兴趣。我倾向于参加一些我喜欢和享受的活动，我经常是和朋友们一起组织活动的主要力量。你不必是世界上最善于交际或最外向的人。但当你注意到他们的努力，并与之相匹配或帮助做出贡献时，人们会注意到你，他们会认为你是一个可靠、有趣的人，似乎很关心他们。</p>
+<p>　　如果你觉得自己没有给别人留下足够深刻的印象，那么你可能需要培养更强的自我意识。拓宽你的视野，培养更多的兴趣，做更多的活动。我发现所谓的“阿尔法”男人经常被那些我觉得有点自卑的男人嘲笑，仅仅是因为“阿尔法”男人倾向于依靠自己的行动来表达自己的存在，而不是其他任何东西。本质上是向别人展示他们能做什么，而不是简单地告诉他们。</p>
+<p>　　比如，用任何形容词来形容自己。风趣、有趣、博学、可靠、善于交际、有艺术气质等等。如果你想不出某个活动、爱好或该形容词或特征的实际表现，那么在别人看来，无论你认为它多么构成你的存在，无论你认为它多么宝贵或你个性的一部分，它都不存在。</p>
+<p>　　如果您想不出很多形容词来描述自己，那么您需要专注于自己，进行一些灵魂探索，学会发展和照顾自己，正如我已经提到的那样。</p>
+<p>　　‍</p>
+<p>　　‍</p>
+<p>　　It varies. But i like to think that love is sacrificial, no matter wad kind of love it is. Like parent’s love for their child and the sacrifice they make to make sure their child have a happy childhood, grow up healthy etc. Even pet owners made alot of sacrifice to ensure that their pet is well taken care off. When it comes to relationship, love is a choice. Just like u need multiple meetups to decide if you want to love them or not, because you want to make sure if this person is worth your time and effort, also considered a ‘sacrifice’.</p>
+<p>　　I'm 40+ INTP, and so I have had the time to think and overthink about this, and the element of &quot;sacrifice for the other&quot; is what I always refer to when describing love. It's not just &quot;sacrifice&quot;, but it has a strong element of it plus maybe some other things. I totally agree with you. And that's why selfish types cannot experience/understand love.</p>
+<p>　　‍</p>
+<p>　　在我真正坠入爱河之前，我的感觉正是如此。只要你找到那个人，一切就会发生。而且是出乎意料的。你的整个观点都会改变。在那之前，我从不理解人们对爱情的炒作和喋喋不休，但它确实是最强烈的情感之一，如果你能释放出来，它会让你感觉如此鲜活，让你大开眼界，体验很多事情。你不能强迫自己去爱或喜欢一个人。如果一开始不自然，在多次约会后也没有变得自然 :/</p>
+<p>　　这就是爱情，它不同于纯粹的爱情。爱是当你看着你的家人或朋友，与他们在一起时，你会感到无比的快乐和平静，钦佩他们，心中充满了你对他们的关心和为他们所做的一切。爱是看着镜子里的自己，或者只是花些时间与自己相处，意识到自己作为一个人有多么美好，从内到外，从头脑、心灵、思想到一切，并对自己感到同情。有自己作为你余生的伴侣，你是多么幸福。这是平静、温暖和无私的。</p>
+<p>　　编辑：刚刚读了其余的评论，它们都很实事求是😭😭对于“什么是爱”这样一个情感问题，做出了如此有趣的回答，哈哈</p>
+<p>　　‍</p>
+<p>　　Love is willing the good of one another.</p>
+<p>　　“The person who does not decide to love forever will find it very difficult to really love even for one day” -Pope John Paul II</p>
+<p>　　“The love that isn’t love in all seasons, The love that isn’t love when it’s inconvenient, The love that doesn’t feel like loving when it’s inconvenient, The love that doesn’t love when it doesn’t feel like loving,</p>
+<p>　　The question we have to ask is: is that really love?” -Father Mike Schmitz</p>
+<p>　　‍</p>
+<p>　　I especially like the second quote.</p>
+<p>　　For me, love is finding another person's happiness essential to my own. I want everyone to experience happiness and well-being, but I want them to attain it on their own. For those I love, however, I'm willing to actually take action to make it happen. And I do it even when I'm not experiencing the feeling of love. Love is a verb.</p>
+<p>　　‍</p>
+<p>　　哥们在谷歌上问这个问题</p>
+<p>　　<a href="https://www.verywellmind.com/what-is-love-2795343">https://www.verywellmind.com/what-is-love-2795343</a></p>
+<p>　　<a href="https://sitn.hms.harvard.edu/flash/2017/love-actually-science-behind-lust-attraction-companionship/">https://sitn.hms.harvard.edu/flash/2017/love-actually-science-behind-lust-attraction-companionship/</a></p>
+<p>　　<a href="https://www.healthline.com/health/love-hormone">https://www.healthline.com/health/love-hormone</a></p>
+<p>　　<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4911849/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4911849/</a></p>
+<p>　　你会在互联网上找到更多结果</p>
+<p>　　‍</p>
+<p>　　‍</p>
+<p>　　I'll never forget when my girlfriend said &quot;I love how we can be alone together&quot;.</p>
+<p>　　Been married sixteen years now. Still feels as fresh as the first year if not better. It's awesome to be with someone by choice every day instead of being expected to provide company constantly.</p>
+<p>　　‍</p>
+<p>​<img src="https://cbt567.oss-rg-china-mainland.aliyuncs.com/img/202412192139529.png" alt="image" />​</p>
+<p>​<img src="https://cbt567.oss-rg-china-mainland.aliyuncs.com/img/202412192139938.png" alt="image" />​</p>
+<h1>写给 INTP 的情书</h1>
+<p>　　亲爱的 INTP，</p>
+<p>　　<em>你们真的是最被低估的性格类型</em> 之一。我可能有偏见，因为我最好的朋友和另一个亲密的朋友都是 INTP，但即使基于我与其他 INTPS 的互动，我也一直对你们的不可思议感到敬畏。</p>
+<p>　　你们的心灵如此美丽。你们开发和揭示逻辑真理的天赋几乎无与伦比，你们通过考虑最具创造性和新颖的观点来拓展人们视野的潜力是值得见证的。尽管存在刻板印象，但 INTP 拥有最宽广的心胸。你们向所关心的人传递如此纯洁、无条件的爱的潜力和能力真正反映了人类最美好的一面。我发誓，你们是这个星球上最忠诚的朋友/爱人之一，任何被你们选择去爱的人都会得到他们无法想象的祝福。更不用说，在我看来，你们的幽默感是所有性格类型中最好的。</p>
+<p>　　我知道你们 INTP 容易自我厌恶，感觉生活缺乏目标/意义，但请知道这个世界确实需要你们。对自己要宽容和耐心，要知道你们拥有实现自己无疑能够发挥的潜力所需的一切。当你觉得自己失败的时候，不要把它当作你缺乏能力或潜力的反映——你仍然有能力，你仍然有价值，你仍然被爱。要意识到<strong>你的目标在于</strong> <strong>发展你自己并与他人分享，</strong> 因为在不知不觉中，你就在推动别人做得更好，让自己变得更好。</p>
+<p>　　请更加自信地前进，要知道你们是多么了不起、多么能干、多么需要你们。认识到自己的价值，但要记住保持谦虚。只要你继续努力，一天天坚持下去，最终你就会到达你想要的地方。至少，这是你们欠自己的。</p>
+<p>　　如果您需要提醒，请随时给我发消息。你们 INTP 真是一份礼物，如果需要的话，我非常乐意支持和鼓励你们。</p>
+<p>　　向你们传达爱意，希望你们一切都好。</p>
+<p>　　编辑：如果我遗漏了什么内容或者您想讨论，请随时与我们联系。我非常感激您花费时间和精力帮助我更好地理解和学习如何更好地支持 INTP 人群等。</p>
+<h1>Love letter to INTPs</h1>
+<p>　　Dear INTPs,</p>
+<p>　　Y'all are seriously one of <em>the</em> most underrated personality types. I may be biased because my best friend and another close friend are INTPs, but even based off of my interactions with other INTPS, I am consistently in awe of how incredible you are.</p>
+<p>　　You have such deeply beautiful minds. Your talent for developing and uncovering logical truths is almost unparalleled, and your potential to expand people's perspectives by considering the most creative and novel viewpoints is a witness to behold. And in spite of the stereotypes, INTPs have some of the biggest hearts. Your potential and ability to deliver such pure, unconditional love to those you care about truly reflect some of the best in humanity. I swear, you are some of the most loyal friends/lovers on the planet, and anyone that is chosen to be loved by you is blessed beyond what they could understand. Not to mention you have, in my opinion, the best sense of humor of any personality type.</p>
+<p>　　I understand you INTPs are prone to self-loathing and feeling a lack of purpose/meaning in your lives, but please know that the world does need you. Be forgiving and patient with yourselves, and just know that you have exactly what it takes to meet the potential that you are undoubtedly capable of. And in moments where you feel like you have failed, do not take this as a reflection of your lack of competency or potential -- you are still capable, you are still worthy, and you are still loved. Realize that <strong>your purpose lies in</strong> <strong>developing exactly who you are and sharing it with others,</strong>  because without even realizing it, you push others to do and be better themselves.</p>
+<p>　　Please move forward more confidently, knowing just how amazing, capable, and needed you all are. Recognize your worth, but remember to stay humble. As long as you keep trying, taking it day by day, eventually you will get exactly where you want to be. At the very least, you owe this to yourselves.</p>
+<p>　　If you need a reminder, don't hesitate to message me. You INTPs are truly a gift, and I would be more than happy to support and encourage you if needed.</p>
+<p>　　Sending you all nothing but love, and hoping this message finds you well.</p>
+<p>　　Edit: if there is something I am missing here or you would like to discuss, please do not hesitate to reach out. I appreciate any time and effort in helping me better understand and learn how I can better support INTP folks and alike.</p>
+<p>　　你必须克服接近女性的恐惧。这真的是一场数字游戏，即使你表现得很友善。有很多不错的女士可以约会，但只有少数人真正合适。</p>
+<p>　　从乔丹·彼得森的书开始。这本书给了我很大的帮助，让我不再厌恶自己的“懦弱”，而是勇敢起来。女人想要一个能照顾她们的人。这可以有多种表现形式。我的妻子非常不喜欢物质，但她希望我在她需要的时候在情感上陪伴她。这对于情商高的 INTP 来说其实很容易。</p>
+<p>　　‍</p>
